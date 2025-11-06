@@ -1,7 +1,5 @@
 ---
-title: "Bainbridge K, Schoenholz C, Zobeiry N. 
-        Investigating the aging of release coating in aerospace composites manufacturing.
-        University of Washington Undergraduate Research in Materials Science and Engineering, 2, 7-11, 2021."
+title: "Bainbridge K, Schoenholz C, Zobeiry N. Investigating the aging of release coating in aerospace composites manufacturing. University of Washington Undergraduate Research in Materials Science and Engineering, 2, 7-11, 2021."
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
