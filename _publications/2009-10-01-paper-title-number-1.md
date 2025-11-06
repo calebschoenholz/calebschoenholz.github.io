@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 1"
+title: "Bainbridge K, Schoenholz C, Zobeiry N. Investigating the aging of release coating in aerospace composites manufacturing."
 collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
