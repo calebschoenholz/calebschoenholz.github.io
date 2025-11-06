@@ -8,7 +8,3 @@ redirect_from:
 ---
 
 In progress...
-
-Caleb's Personal Website
-======
-In progress...
