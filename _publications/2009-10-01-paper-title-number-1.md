@@ -9,5 +9,5 @@ venue: # 'Journal 1'
 slidesurl: # 'https://academicpages.github.io/files/slides1.pdf'
 paperurl: # 'https://doi.org/10.6069/ssywg443'
 bibtexurl: # 'https://academicpages.github.io/files/bibtex1.bib'
-citation: # 'University of Washington Undergraduate Research in Materials Science and Engineering, 2, 7-11, 2021.'
+citation: 'University of Washington Undergraduate Research in Materials Science and Engineering, 2, 7-11, 2021.'
 ---
