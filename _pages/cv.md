@@ -11,11 +11,11 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Doctor of Philosophy (Ph.D.), Materials Science & Engineering, University of Washington, 2024
+* Master of Science (M.S.), Materials Science & Engineering, University of Washington, 2022
+* Bachelor of Science (B.S.), Composite Materials Engineering, Minor in Mathematics, Winona State University, 2020
 
-Work experience
+Professional Experience
 ======
 * Spring 2024: Academic Pages Collaborator
   * GitHub University
@@ -40,25 +40,7 @@ Skills
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+Other Experience
 ======
 * Currently signed in to 43 different slack teams
