@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper
 excerpt: # 'This paper is about the number 1. The number 2 is left for future work.'
-date: # 2010-10-01
+date: 2010-10-01
 venue: # 'Journal 1'
 slidesurl: #'https://academicpages.github.io/files/slides2.pdf'
 paperurl: 'https://doi.org/10.6069/ssywg443'
