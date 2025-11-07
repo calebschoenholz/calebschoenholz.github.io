@@ -11,39 +11,21 @@ redirect_from:
 
 Education
 ======
-**University of Washington**, Seattle, WA
+[**University of Washington**](https://www.washington.edu/), Seattle, WA
 * Doctor of Philosophy (Ph.D.), Materials Science & Engineering, 2024
 * Master of Science (M.S.), Materials Science & Engineering, 2022
 
-**Winona State University**, Winona, MN
+[**Winona State University**](https://www.winona.edu/), Winona, MN
 * Bachelor of Science (B.S.), Composite Materials Engineering, Minor in Mathematics, 2020
 
 Professional Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Experience 1
   
-Skills
+Certifications
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Certification 1
   
 Other Experience
 ======
-* Currently signed in to 43 different slack teams
+* Other experience 1
