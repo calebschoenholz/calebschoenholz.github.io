@@ -11,9 +11,11 @@ redirect_from:
 
 Education
 ======
-* Doctor of Philosophy (Ph.D.), Materials Science & Engineering, University of Washington, 2024
-* Master of Science (M.S.), Materials Science & Engineering, University of Washington, 2022
-* Bachelor of Science (B.S.), Composite Materials Engineering, Minor in Mathematics, Winona State University, 2020
+* University of Washington, Seattle, WA
+  * Doctor of Philosophy (Ph.D.), Materials Science & Engineering, 2024
+  * Master of Science (M.S.), Materials Science & Engineering, 2022
+* Winona State University, Winona, MN
+  * Bachelor of Science (B.S.), Composite Materials Engineering, Minor in Mathematics, 2020
 
 Professional Experience
 ======
