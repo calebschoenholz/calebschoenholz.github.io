@@ -36,6 +36,16 @@ author_profile: true
   margin-bottom: 0.25rem;
 }
 
+/* Subtle author links */
+.publication-authors a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.publication-authors a:hover {
+  text-decoration: underline;
+}
+
 .publication-venue {
   font-style: italic;
   margin-bottom: 0.5rem;
