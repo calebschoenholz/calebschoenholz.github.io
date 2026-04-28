@@ -51,6 +51,15 @@ author_profile: true
   margin-bottom: 0.5rem;
 }
 
+.publication-venue a {
+  color: #8b0000;
+  text-decoration: none;
+}
+
+.publication-venue a:hover {
+  text-decoration: underline;
+}
+  
 .publication-links a {
   display: inline-block;
   margin-right: 0.5rem;
@@ -106,11 +115,9 @@ author_profile: true
     </div>
 
     <div class="publication-venue">
-      Composites Part B: Engineering, 280, 111499, <strong>2024</strong>
-    </div>
-
-    <div class="publication-links">
-      <a href="https://doi.org/10.1016/j.compositesb.2024.111499">DOI</a>
+      <a href="https://doi.org/10.1016/j.compositesb.2024.111499" target="_blank" rel="noopener noreferrer">
+        Composites Part B: Engineering, 280, 111499, <strong>2024</strong>
+      </a>
     </div>
   </div>
 </div>
