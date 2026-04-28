@@ -38,7 +38,7 @@ author_profile: true
 
 /* Subtle author links */
 .publication-authors a {
-  color: #1f77b4;
+  color: #000000;
   text-decoration: none;
 }
 
@@ -52,7 +52,7 @@ author_profile: true
 }
 
 .publication-venue a {
-  color: #8b0000;
+  color: #000000;
   text-decoration: none;
 }
 
