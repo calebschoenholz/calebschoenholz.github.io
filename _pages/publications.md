@@ -38,7 +38,7 @@ author_profile: true
 
 /* Subtle author links */
 .publication-authors a {
-  color: inherit;
+  color: #1f77b4;
   text-decoration: none;
 }
 
