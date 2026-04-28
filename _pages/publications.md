@@ -30,7 +30,7 @@ author_profile: true
   font-size: 1.05rem;
   font-weight: 700;
   margin-bottom: 0.35rem;
-  color: #000000;
+  color: inheret;
 }
 
 .publication-authors {
@@ -39,7 +39,7 @@ author_profile: true
 
 /* Subtle author links */
 .publication-authors a {
-  color: #000000;
+  color: inheret;
   text-decoration: none;
 }
 
@@ -53,7 +53,7 @@ author_profile: true
 }
 
 .publication-venue a {
-  color: #000000;
+  color: inheret;
   text-decoration: none;
 }
 
