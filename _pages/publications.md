@@ -1,45 +1,199 @@
 ---
 layout: archive
-title: # "Publications"
+title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
 
-**Journal Articles**
+<style>
+.publication-card {
+  display: flex;
+  gap: 1.25rem;
+  margin-bottom: 2rem;
+  padding-bottom: 1.5rem;
+  border-bottom: 1px solid #e5e5e5;
+}
 
-**1.  Schoenholz C**, Zappino E, Petrolo M, Zobeiry N. Efficient analysis of composites manufacturing using multi-fidelity simulation and probabilistic machine learning. *Composites Part B: Engineering*, 280, 111499, **2024**. [https://doi.org/10.1016/j.compositesb.2024.111499](https://doi.org/10.1016/j.compositesb.2024.111499).
+.publication-card img {
+  width: 180px;
+  height: 120px;
+  object-fit: cover;
+  border-radius: 8px;
+  border: 1px solid #ddd;
+}
 
-**2.  Schoenholz C**, Zobeiry N. Investigating the impacts of processing variability on tool-part interaction for interply-toughened aerospace composites using a novel shear technique. *Composites Part A: Applied Science and Manufacturing*, 178, 107973, **2024**. [https://doi.org/10.1016/j.compositesa.2023.107973](https://doi.org/10.1016/j.compositesa.2023.107973). 
+.publication-content {
+  flex: 1;
+}
 
-**3.	Schoenholz C**, Zobeiry N. An accelerated process optimization method to minimize deformations in composites using theory-guided probabilistic machine learning. *Composites Part A: Applied Science and Manufacturing*, 176, 107842, **2024**.
-[https://doi.org/10.1016/j.compositesa.2023.107842](https://doi.org/10.1016/j.compositesa.2023.107842). 
+.publication-title {
+  font-size: 1.05rem;
+  font-weight: 700;
+  margin-bottom: 0.35rem;
+}
 
-**4.  Schoenholz C**, Li S, Bainbridge K, Huynh V, Gray A, Zobeiry N. Accelerated in situ inspection of release coating and tool surface condition in composites manufacturing using global mapping, sparse sensing, and machine learning. *Journal of Manufacturing and Materials Processing*, 7(3), 81, **2023**. [https://doi.org/10.3390/jmmp7030081](https://doi.org/10.3390/jmmp7030081). 
+.publication-authors {
+  margin-bottom: 0.25rem;
+}
 
-**5.	Schoenholz C**, Li S, Bainbridge K, Huynh V, Gray A, Chen X, Zobeiry N. An automated evaluation method of tool surface condition in composites manufacturing using machine learning and sparse sensing. *SAMPE Journal*, 59(1), 10-23, **2023**.
+.publication-venue {
+  font-style: italic;
+  margin-bottom: 0.5rem;
+}
 
-**6.**	Bainbridge K, **Schoenholz C**, Zobeiry N. Investigating the aging of release coating in aerospace composites manufacturing. *University of Washington Undergraduate Research in Materials Science and Engineering*, 2, 7-11, **2021**. [https://doi.org/10.6069/ssywg443](https://doi.org/10.6069/ssywg443). 
+.publication-links a {
+  display: inline-block;
+  margin-right: 0.5rem;
+  margin-top: 0.25rem;
+  padding: 0.25rem 0.6rem;
+  border: 1px solid #555;
+  border-radius: 4px;
+  font-size: 0.8rem;
+  text-decoration: none;
+}
 
-**Conference Papers**
+.publication-links a:hover {
+  background-color: #f2f2f2;
+}
 
-**1.	Schoenholz C**, Zappino E, Petrolo M, Zobeiry N. A Theory-guided Probabilistic Machine Learning Framework for Accelerated Prediction of Process-induced Deformations in Advanced Composites. *Proceedings of the European Conference on Composite Materials (ECCM)*, Nantes, France, **2024**. [https://doi.org/10.60691/yj56-np80](https://doi.org/10.60691/yj56-np80). 
+@media screen and (max-width: 600px) {
+  .publication-card {
+    flex-direction: column;
+  }
 
-**2.	Schoenholz C**, Zappino E, Petrolo M, Zobeiry N. Accurate Prediction of Process-induced Deformations in Composites Using Laser-wise Models and Theory-guided Probabilistic Machine Learning. *Proceedings of the ASME Aerospace Structures, Structural Dynamics, and Materials (SSDM) Conference*, Renton, WA, **2024**. [https://doi.org/10.1115/SSDM2024-121050](https://doi.org/10.1115/SSDM2024-121050). 
+  .publication-card img {
+    width: 100%;
+    height: auto;
+  }
+}
+</style>
 
-**3.	Schoenholz C**, Zobeiry N. A Theory-guided Machine Learning Method for Cure Cycle Optimization to Minimize Process-induced Deformations in Composites. *Proceedings of the American Society for Composites (ASC) Conference*, Boston, MA, **2023**. [https://doi.org/10.12783/asc38/36531](https://doi.org/10.12783/asc38/36531). 
+## Journal Articles
 
-**4.**	Fu H, **Schoenholz C**, Portales P, Eskandariyun A, Zobeiry N. Accelerating Composite Cure Cycle Optimization with Combined Probabilistic Machine Learning and Finite Element Simulation. *Proceedings of the American Society for Composites (ASC) Conference*, Boston, MA, **2023**. [https://doi.org/10.12783/asc38/36563](https://doi.org/10.12783/asc38/36563). 
+<div class="publication-card">
+  <img src="/images/publications/multifidelity-composites.jpg" alt="Multi-fidelity composites manufacturing paper thumbnail">
 
-**5.	Schoenholz C**, Zobeiry N. A Theory-guided Probabilistic Machine Learning Method to Minimize Process-induced Deformations in Composite Structures. *Proceedings of the ASME Aerospace Structures, Structural Dynamics, and Materials (SSDM) Conference*, San Diego, CA, **2023**. [https://doi.org/10.1115/SSDM2023-106753](https://doi.org/10.1115/SSDM2023-106753). 
+  <div class="publication-content">
+    <div class="publication-title">
+      Efficient analysis of composites manufacturing using multi-fidelity simulation and probabilistic machine learning
+    </div>
 
-**6.**	Zobeiry N, Zappino E, **Schoenholz C**, Masia R, Petrolo M. An Optimization Strategy Based on Machine Learning and Layer-wise Models to Minimize Process-induced Deformations in CFRP Parts. *Proceedings of the ASME Aerospace Structures, Structural Dynamics, and Materials (SSDM) Conference*, San Diego, CA, **2023**. [https://doi.org/10.1115/SSDM2023-106945](https://doi.org/10.1115/SSDM2023-106945). 
+    <div class="publication-authors">
+      <strong>Schoenholz C</strong>, Zappino E, Petrolo M, Zobeiry N
+    </div>
 
-**7.	Schoenholz C**, Zobeiry N. Investigating the Effects of Release Coating on Tool-Part Interaction and Process-induced Deformations in Composites Manufacturing. *Proceedings of the Society for the Advancement of Materials and Process Engineering (SAMPE) Conference*, Seattle, WA, **2023**. [https://doi.org/10.33599/nasampe/s.23.0007](https://doi.org/10.33599/nasampe/s.23.0007). 
+    <div class="publication-venue">
+      Composites Part B: Engineering, 280, 111499, <strong>2024</strong>
+    </div>
 
-**8.**	Zappino E, **Schoenholz C**, Masia R, Cheng R, Petrolo M, Zobeiry N. Optimal Lay-ups to Minimize Process-induced Deformations in L-shaped CFRP Parts via Layer-wise Models. *Proceedings of the Society for the Advancement of Materials and Process Engineering (SAMPE) Conference*, Seattle, WA, **2023**. [https://doi.org/10.33599/nasampe/s.23.0143](https://doi.org/10.33599/nasampe/s.23.0143). 
+    <div class="publication-links">
+      <a href="https://doi.org/10.1016/j.compositesb.2024.111499">DOI</a>
+    </div>
+  </div>
+</div>
 
-**9.	Schoenholz C**, Moomaw J, Zobeiry N. Investigating the Effects of Cure Pressure on Tool-Part Interaction and Process-induced Deformations in Composites. *Proceedings of the American Society for Composites (ASC) Conference*, Tucson, AZ, **2022**. [https://doi.org/10.12783/asc37/36383](https://doi.org/10.12783/asc37/36383). 
+<div class="publication-card">
+  <img src="/images/publications/tool-part-interaction.jpg" alt="Tool-part interaction paper thumbnail">
 
-**10.  Schoenholz C**, Li S, Bainbridge K, Huynh V, Gray A, Chen X, Zobeiry N. A Machine Learning-based Portable Inspection Method for Evaluation of Tool Surface Condition and Release Coating in Composites Manufacturing. *Proceedings of the Society for the Advancement of Materials and Process Engineering (SAMPE) Conference*, Charlotte, NC, **2022**. [https://doi.org/10.33599/nasampe/s.22.0740](https://doi.org/10.33599/nasampe/s.22.0740). 
+  <div class="publication-content">
+    <div class="publication-title">
+      Investigating the impacts of processing variability on tool-part interaction for interply-toughened aerospace composites using a novel shear technique
+    </div>
 
-**11.  Schoenholz C**, Slade D, Zappino E, Petrolo M, Zobeiry N. Representation, Characterization, and Simulation of Tool-Part Interaction and its Effects on Process-induced Deformations in Composites. *Proceedings of the American Society for Composites (ASC) Conference*, Virtual, **2021**. [https://doi.org/10.12783/asc36/35832](https://doi.org/10.12783/asc36/35832). 
+    <div class="publication-authors">
+      <strong>Schoenholz C</strong>, Zobeiry N
+    </div>
+
+    <div class="publication-venue">
+      Composites Part A: Applied Science and Manufacturing, 178, 107973, <strong>2024</strong>
+    </div>
+
+    <div class="publication-links">
+      <a href="https://doi.org/10.1016/j.compositesa.2023.107973">DOI</a>
+    </div>
+  </div>
+</div>
+
+<div class="publication-card">
+  <img src="/images/publications/process-optimization.jpg" alt="Process optimization paper thumbnail">
+
+  <div class="publication-content">
+    <div class="publication-title">
+      An accelerated process optimization method to minimize deformations in composites using theory-guided probabilistic machine learning
+    </div>
+
+    <div class="publication-authors">
+      <strong>Schoenholz C</strong>, Zobeiry N
+    </div>
+
+    <div class="publication-venue">
+      Composites Part A: Applied Science and Manufacturing, 176, 107842, <strong>2024</strong>
+    </div>
+
+    <div class="publication-links">
+      <a href="https://doi.org/10.1016/j.compositesa.2023.107842">DOI</a>
+    </div>
+  </div>
+</div>
+
+<div class="publication-card">
+  <img src="/images/publications/release-coating-ml.jpg" alt="Release coating machine learning paper thumbnail">
+
+  <div class="publication-content">
+    <div class="publication-title">
+      Accelerated in situ inspection of release coating and tool surface condition in composites manufacturing using global mapping, sparse sensing, and machine learning
+    </div>
+
+    <div class="publication-authors">
+      <strong>Schoenholz C</strong>, Li S, Bainbridge K, Huynh V, Gray A, Zobeiry N
+    </div>
+
+    <div class="publication-venue">
+      Journal of Manufacturing and Materials Processing, 7(3), 81, <strong>2023</strong>
+    </div>
+
+    <div class="publication-links">
+      <a href="https://doi.org/10.3390/jmmp7030081">DOI</a>
+    </div>
+  </div>
+</div>
+
+<div class="publication-card">
+  <img src="/images/publications/tool-surface-condition.jpg" alt="Tool surface condition sparse sensing paper thumbnail">
+
+  <div class="publication-content">
+    <div class="publication-title">
+      An automated evaluation method of tool surface condition in composites manufacturing using machine learning and sparse sensing
+    </div>
+
+    <div class="publication-authors">
+      <strong>Schoenholz C</strong>, Li S, Bainbridge K, Huynh V, Gray A, Chen X, Zobeiry N
+    </div>
+
+    <div class="publication-venue">
+      SAMPE Journal, 59(1), 10–23, <strong>2023</strong>
+    </div>
+  </div>
+</div>
+
+<div class="publication-card">
+  <img src="/images/publications/release-coating-aging.jpg" alt="Release coating aging paper thumbnail">
+
+  <div class="publication-content">
+    <div class="publication-title">
+      Investigating the aging of release coating in aerospace composites manufacturing
+    </div>
+
+    <div class="publication-authors">
+      Bainbridge K, <strong>Schoenholz C</strong>, Zobeiry N
+    </div>
+
+    <div class="publication-venue">
+      University of Washington Undergraduate Research in Materials Science and Engineering, 2, 7–11, <strong>2021</strong>
+    </div>
+
+    <div class="publication-links">
+      <a href="https://doi.org/10.6069/ssywg443">DOI</a>
+    </div>
+  </div>
+</div>
