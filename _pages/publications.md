@@ -30,6 +30,7 @@ author_profile: true
   font-size: 1.05rem;
   font-weight: 700;
   margin-bottom: 0.35rem;
+  color: #000000;
 }
 
 .publication-authors {
