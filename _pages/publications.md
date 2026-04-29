@@ -60,6 +60,14 @@ author_profile: true
 .publication-venue a:hover {
   text-decoration: underline;
 }
+
+.publication-summary {
+  margin-top: 0.4rem;
+  margin-bottom: 0.5rem;
+  font-size: 0.92rem;
+  line-height: 1.45;
+  color: inherit;
+}
   
 .publication-links a {
   display: inline-block;
@@ -119,6 +127,10 @@ author_profile: true
       <a href="https://doi.org/10.1016/j.compositesb.2024.111499" target="_blank" rel="noopener noreferrer">
         Composites Part B: Engineering, 280, 111499, <strong>2024</strong>
       </a>
+    </div>
+
+    <div class="publication-summary">
+      This paper introduces a multi-fidelity simulation and probabilistic machine learning framework for predicting process-       induced deformations in composite manufacturing. The approach combines low-fidelity simulations, high-fidelity               simulations, and limited experimental data to efficiently calibrate predictive models.
     </div>
   </div>
 </div>
