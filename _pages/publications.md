@@ -130,7 +130,7 @@ author_profile: true
     </div>
 
     <div class="publication-summary">
-      This paper introduces Spatially Weighted Gaussian Process Regression (SWGPR), a machine learning (ML) method for multi-fidelity data, and demonstrates its use in predicting process-induced deformations (PIDs) in aerospace composite parts.
+      A novel machine learning (ML) method for multi-fidelity data, Spatially Weighted Gaussian Process Regression (SWGPR), is demonstrated to accurately predict process-induced deformations (PIDs) in aerospace composite parts.
     </div>
   </div>
 </div>
@@ -161,7 +161,7 @@ author_profile: true
     </div>
 
     <div class="publication-summary">
-      This paper introduces a custom Dynamic Mechanical Analysis (DMA)-based shear test for measuring interfacial stresses between a tool and composite part during manufacturing, then uses it to explore the effects of different process parameters.
+      A custom Dynamic Mechanical Analysis (DMA)-based shear test is used to explore impacts of different process parameters on tool-part interfacial stresses for aerospace composites.
     </div>
   </div>
 </div>
@@ -175,15 +175,24 @@ author_profile: true
     </div>
 
     <div class="publication-authors">
-      <strong>Schoenholz C</strong>, Zobeiry N
+      <strong>
+        <a href="https://scholar.google.com/citations?user=y02nobQAAAAJ&hl=en&oi=ao" target="_blank" rel="noopener noreferrer">
+          Schoenholz C
+        </a>
+      </strong>,
+      <a href="https://scholar.google.com/citations?user=dono9moAAAAJ&hl=en&oi=ao" target="_blank" rel="noopener noreferrer">
+        Zobeiry N
+      </a>
     </div>
 
     <div class="publication-venue">
+      <a href="https://doi.org/10.1016/j.compositesa.2023.107842" target="_blank" rel="noopener noreferrer">
       Composites Part A: Applied Science and Manufacturing, 176, 107842, <strong>2024</strong>
+      </a>
     </div>
 
-    <div class="publication-links">
-      <a href="https://doi.org/10.1016/j.compositesa.2023.107842">DOI</a>
+    <div class="publication-summary">
+      A novel theory-guided machine learning (TGML) method is used to efficiently optimize process parameters and minimize deformations in L-shaped aerospace composite parts.
     </div>
   </div>
 </div>
