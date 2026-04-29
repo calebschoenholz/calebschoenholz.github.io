@@ -155,12 +155,9 @@ author_profile: true
     </div>
 
     <div class="publication-venue">
-      <a href="https://doi.org/10.1016/j.compositesa.2023.107973">DOI</a>
-      Composites Part A: Applied Science and Manufacturing, 178, 107973, <strong>2024</strong>
-    </div>
-
-    <div class="publication-links">
-      <a href="https://doi.org/10.1016/j.compositesa.2023.107973">DOI</a>" target="_blank" rel="noopener noreferrer">
+      <a href="https://doi.org/10.1016/j.compositesa.2023.107973" target="_blank" rel="noopener noreferrer">
+        Composites Part A: Applied Science and Manufacturing, 178, 107973, <strong>2024</strong>
+      </a>
     </div>
   </div>
 </div>
