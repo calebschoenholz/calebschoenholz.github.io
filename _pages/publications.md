@@ -16,7 +16,7 @@ author_profile: true
 
 .publication-card img {
   width: 180px;
-  height: 120px;
+  height: 180px;
   object-fit: cover;
   border-radius: 8px;
   border: 1px solid #ddd;
