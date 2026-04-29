@@ -130,7 +130,7 @@ author_profile: true
     </div>
 
     <div class="publication-summary">
-      This paper introduces a multi-fidelity simulation and probabilistic machine learning framework for predicting process-       induced deformations in composite manufacturing. The approach combines low-fidelity simulations, high-fidelity               simulations, and limited experimental data to efficiently calibrate predictive models.
+      This paper introduces Spatially Weighted Gaussian Process Regression (SWGPR), a machine learning (ML) method for multi-fidelity data, and demonstrates its use in predicting process-induced deformations (PIDs) in aerospace composite parts.
     </div>
   </div>
 </div>
