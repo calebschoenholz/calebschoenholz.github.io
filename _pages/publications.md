@@ -159,6 +159,10 @@ author_profile: true
         Composites Part A: Applied Science and Manufacturing, 178, 107973, <strong>2024</strong>
       </a>
     </div>
+
+    <div class="publication-summary">
+      This paper introduces a custom Dynamic Mechanical Analysis (DMA)-based shear test for measuring interfacial stresses between a tool and composite part during manufacturing, then uses it to explore the effects of different process parameters.
+    </div>
   </div>
 </div>
 
