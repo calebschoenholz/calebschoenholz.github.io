@@ -144,15 +144,23 @@ author_profile: true
     </div>
 
     <div class="publication-authors">
-      <strong>Schoenholz C</strong>, Zobeiry N
+      <strong>
+        <a href="https://scholar.google.com/citations?user=y02nobQAAAAJ&hl=en&oi=ao" target="_blank" rel="noopener noreferrer">
+          Schoenholz C
+        </a>
+      </strong>,
+      <a href="https://scholar.google.com/citations?user=dono9moAAAAJ&hl=en&oi=ao" target="_blank" rel="noopener noreferrer">
+        Zobeiry N
+      </a>
     </div>
 
     <div class="publication-venue">
+      <a href="https://doi.org/10.1016/j.compositesa.2023.107973">DOI</a>
       Composites Part A: Applied Science and Manufacturing, 178, 107973, <strong>2024</strong>
     </div>
 
     <div class="publication-links">
-      <a href="https://doi.org/10.1016/j.compositesa.2023.107973">DOI</a>
+      <a href="https://doi.org/10.1016/j.compositesa.2023.107973">DOI</a>" target="_blank" rel="noopener noreferrer">
     </div>
   </div>
 </div>
