@@ -210,11 +210,13 @@ author_profile: true
     </div>
 
     <div class="publication-venue">
+      <a href="https://doi.org/10.3390/jmmp7030081" target="_blank" rel="noopener noreferrer">
       Journal of Manufacturing and Materials Processing, 7(3), 81, <strong>2023</strong>
+      </a>
     </div>
 
-    <div class="publication-links">
-      <a href="https://doi.org/10.3390/jmmp7030081">DOI</a>
+    <div class="publication-summary">
+      A machine learning (ML)–assisted tool inspection method is shown to automatically identify surface contaminations, evaluate cleaning procedures, and reduce tool maintence costs in composites manufacturing operations.
     </div>
   </div>
 </div>
