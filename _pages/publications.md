@@ -243,7 +243,10 @@ author_profile: true
           Schoenholz C
         </a>
       </strong>, 
-      Li S, Bainbridge K, Huynh V, Gray A, Chen X, 
+      Li S, Bainbridge K, Huynh V, Gray A, 
+      <a href="https://scholar.google.com/citations?user=FjSFwK4AAAAJ&hl=en" target="_blank" rel="noopener noreferrer">
+        Chen X
+      </a>,
       <a href="https://scholar.google.com/citations?user=dono9moAAAAJ&hl=en&oi=ao" target="_blank" rel="noopener noreferrer">
         Zobeiry N
       </a>
