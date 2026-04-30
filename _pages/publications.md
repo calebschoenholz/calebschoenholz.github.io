@@ -206,7 +206,15 @@ author_profile: true
     </div>
 
     <div class="publication-authors">
-      <strong>Schoenholz C</strong>, Li S, Bainbridge K, Huynh V, Gray A, Zobeiry N
+      <strong>
+        <a href="https://scholar.google.com/citations?user=y02nobQAAAAJ&hl=en&oi=ao" target="_blank" rel="noopener noreferrer">
+          Schoenholz C
+        </a>
+      </strong>,
+      Li S, Bainbridge K, Huynh V, Gray A, 
+      <a href="https://scholar.google.com/citations?user=dono9moAAAAJ&hl=en&oi=ao" target="_blank" rel="noopener noreferrer">
+        Zobeiry N
+      </a>
     </div>
 
     <div class="publication-venue">
@@ -230,10 +238,12 @@ author_profile: true
     </div>
 
     <div class="publication-authors">
-      <a href="https://scholar.google.com/citations?user=y02nobQAAAAJ&hl=en&oi=ao" target="_blank" rel="noopener noreferrer">
+      <strong>
+        <a href="https://scholar.google.com/citations?user=y02nobQAAAAJ&hl=en&oi=ao" target="_blank" rel="noopener noreferrer">
           Schoenholz C
         </a>
-      </strong>, Li S, Bainbridge K, Huynh V, Gray A, Chen X, 
+      </strong>, 
+      Li S, Bainbridge K, Huynh V, Gray A, Chen X, 
       <a href="https://scholar.google.com/citations?user=dono9moAAAAJ&hl=en&oi=ao" target="_blank" rel="noopener noreferrer">
         Zobeiry N
       </a>
