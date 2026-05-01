@@ -115,8 +115,12 @@ author_profile: true
     </div>
 
     <ul class="cv-degree-list">
-      <li>
+      <li class="cv-level2">
         <strong>Doctor of Philosophy (Ph.D.)</strong>, Materials Science & Engineering
+      </li>
+
+      <li class="cv-level2">
+        <strong>Master of Science (M.S.)</strong>, Materials Science & Engineering
       </li>
     </ul>
   </div>
