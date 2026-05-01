@@ -85,7 +85,7 @@ section {
 </div>
 
 <div class="cv-card">
-  <img src="/images/Winona_State_University_logo.png" alt="Winona State University thumbnail">
+  <img src="/images/Winona_State_logo.png" alt="Winona State University thumbnail">
 
   <div class="cv-content">
     <div class="cv-level1">
@@ -94,11 +94,7 @@ section {
 
     <ul class="cv-degree-list">
       <li>
-        <strong>Bachelor of Science (B.S.)</strong>, Composite Materials Engineering
-      </li>
-
-      <li>
-        <strong>Minor</strong>, Mathematics
+        <strong>Bachelor of Science (B.S.)</strong>, Composite Materials Engineering, Minor in Mathematics
       </li>
     </ul>
   </div>
