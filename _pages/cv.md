@@ -18,7 +18,7 @@ author_profile: true
   width: 120px;
   height: 120px;
   object-fit: contain;
-  padding: 10px;
+  padding: 5px;
   box-sizing: border-box;
   border-radius: 8px;
   border: none;
@@ -28,24 +28,24 @@ author_profile: true
   flex: 1;
 }
 
-.cv-title {
+.cv-level1 {
   font-size: 1.05rem;
   font-weight: 400;
   margin-bottom: 0.35rem;
   color: inherit;
 }
 
-.cv-authors {
+.cv-level2 {
   margin-bottom: 0.25rem;
 }
 
 /* Subtle author links */
-.cv-authors a {
+.cv-level2 a {
   color: inherit;
   text-decoration: none;
 }
 
-.cv-authors a:hover {
+.cv-level2 a:hover {
   text-decoration: underline;
 }
 
@@ -104,8 +104,13 @@ author_profile: true
   <img src="/images/Washington_Huskies_logo.png" alt="UW thumbnail">
 
   <div class="cv-content">
-    <div class="cv-title">
+    <div class="cv-level1">
       <strong>University of Washington</strong>, <em>Seattle, WA</em>
     </div>
+
+    <div class="cv-level2">
+      <strong>Doctor of Philosophy (Ph.D.)</strong>, Materials Science & Engineering
+    </div>
+    
   </div>
 </div>
