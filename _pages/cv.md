@@ -99,12 +99,14 @@ author_profile: true
 ## Education
 
 <div class="cv-card">
-  <img src="/images/Picture-UW.png" alt="UW thumbnail">
+  <img src="/images/Washington_Huskies_logo.png" alt="UW thumbnail">
 
   <div class="publication-content">
     <div class="publication-title">
       Doctor of Philosophy (Ph.D.)
     </div>
+  </div>
+</div>
 
 * **Doctor of Philosophy (Ph.D.)**, Materials Science & Engineering, University of Washington, *Seattle, WA*, **2024**.
     * [Dissertation](https://digital.lib.washington.edu/researchworks/items/74b5a5a1-3cb2-4fe3-a0be-7598a45a8521) Entitled: "Investigating the Impacts of Processing Uncertainty and Variability on Residual Stresses and            Deformations in Aerospace Composites Manufacturing"
