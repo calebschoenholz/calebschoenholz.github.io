@@ -17,7 +17,9 @@ author_profile: true
 .cv-card img {
   width: 120px;
   height: 120px;
-  object-fit: cover;
+  object-fit: contain;
+  padding: 10px;
+  box-sizing: border-box;
   border-radius: 8px;
   border: none;
 }
