@@ -116,10 +116,6 @@ author_profile: true
     <div class="publication-venue">
       <a href="https://doi.org/10.1016/j.compositesb.2024.111499" target="_blank" rel="noopener noreferrer">Composites Part B: Engineering, 280, 111499, <strong>2024</strong></a>
     </div>
-
-    <div class="publication-summary">
-      A novel machine learning (ML) method for multi-fidelity data, Spatially Weighted Gaussian Process Regression (SWGPR), is demonstrated to accurately predict process-induced deformations (PIDs) in aerospace composite parts.
-    </div>
   </div>
 </div>
 
@@ -170,10 +166,6 @@ author_profile: true
       Composites Part A: Applied Science and Manufacturing, 176, 107842, <strong>2024</strong>
       </a>
     </div>
-
-    <div class="publication-summary">
-      A novel theory-guided machine learning (TGML) method is used to efficiently optimize process parameters and minimize deformations in L-shaped aerospace composite parts.
-    </div>
   </div>
 </div>
 
@@ -198,13 +190,7 @@ author_profile: true
     </div>
 
     <div class="publication-venue">
-      <a href="https://doi.org/10.3390/jmmp7030081" target="_blank" rel="noopener noreferrer">
-      Journal of Manufacturing and Materials Processing, 7(3), 81, <strong>2023</strong>
-      </a>
-    </div>
-
-    <div class="publication-summary">
-      A machine learning (ML)–assisted tool inspection method is shown to automatically identify surface contaminations, evaluate cleaning procedures, and reduce tool maintence costs in composites manufacturing operations.
+      <a href="https://doi.org/10.3390/jmmp7030081" target="_blank" rel="noopener noreferrer">Journal of Manufacturing and Materials Processing, 7(3), 81, <strong>2023</strong></a>
     </div>
   </div>
 </div>
@@ -251,11 +237,7 @@ author_profile: true
     </div>
 
     <div class="publication-venue">
-      University of Washington Undergraduate Research in Materials Science and Engineering, 2, 7–11, <strong>2021</strong>
-    </div>
-
-    <div class="publication-links">
-      <a href="https://doi.org/10.6069/ssywg443">DOI</a>
+      <a href="https://doi.org/10.6069/ssywg443" target="_blank" rel="noopener noreferrer">University of Washington Undergraduate Research in Materials Science and Engineering, 2, 7–11, <strong>2021</strong></a>
     </div>
   </div>
 </div>
