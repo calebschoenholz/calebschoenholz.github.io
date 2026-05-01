@@ -60,6 +60,14 @@ section {
 }
 </style>
 
+<section id="publications">
+
+<h2>Publications</h2>
+
+<p>Add your publications here later.</p>
+
+</section>
+
 <section id="education">
 
 <h2>Education</h2>
@@ -99,13 +107,5 @@ section {
     </ul>
   </div>
 </div>
-
-</section>
-
-<section id="publications">
-
-<h2>Publications</h2>
-
-<p>Add your publications here later.</p>
 
 </section>
