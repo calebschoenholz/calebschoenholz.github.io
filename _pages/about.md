@@ -19,9 +19,9 @@ section {
 .publication-card {
   display: flex;
   gap: 1.25rem;
-  margin-bottom: 2rem;
-  padding-bottom: 1.5rem;
-  border-bottom: 1px solid #e5e5e5;
+  margin-bottom: 1rem;
+  padding-bottom: 1rem;
+  border-bottom: none;
 }
 
 /* Education images */
@@ -42,7 +42,6 @@ section {
   object-fit: cover;
   border-radius: 8px;
   border: none;
-  padding: 5px;
 }
 
 .cv-content,
