@@ -28,7 +28,7 @@ author_profile: true
 
 .cv-title {
   font-size: 1.05rem;
-  font-weight: 700;
+  font-weight: 400;
   margin-bottom: 0.35rem;
   color: inherit;
 }
@@ -103,7 +103,7 @@ author_profile: true
 
   <div class="cv-content">
     <div class="cv-title">
-      Doctor of Philosophy (Ph.D.)
+      <strong>University of Washington</strong>, <em>Seattle, WA</em>
     </div>
   </div>
 </div>
