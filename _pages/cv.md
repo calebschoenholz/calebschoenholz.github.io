@@ -1,12 +1,12 @@
 ---
 layout: archive
 title: "CV"
-permalink: /publications/
+permalink: /cv/
 author_profile: true
 ---
 
 <style>
-.publication-card {
+.cv-card {
   display: flex;
   gap: 1.25rem;
   margin-bottom: 2rem;
@@ -14,7 +14,7 @@ author_profile: true
   border-bottom: 1px solid #e5e5e5;
 }
 
-.publication-card img {
+.cv-card img {
   width: 120px;
   height: 120px;
   object-fit: cover;
@@ -22,46 +22,46 @@ author_profile: true
   border: none;
 }
 
-.publication-content {
+.cv-content {
   flex: 1;
 }
 
-.publication-title {
+.cv-title {
   font-size: 1.05rem;
   font-weight: 700;
   margin-bottom: 0.35rem;
   color: inherit;
 }
 
-.publication-authors {
+.cv-authors {
   margin-bottom: 0.25rem;
 }
 
 /* Subtle author links */
-.publication-authors a {
+.cv-authors a {
   color: inherit;
   text-decoration: none;
 }
 
-.publication-authors a:hover {
+.cv-authors a:hover {
   text-decoration: underline;
 }
 
-.publication-venue {
+.cv-venue {
   font-style: italic;
   margin-bottom: 0.5rem;
 }
 
-.publication-venue a {
+.cv-venue a {
   color: inherit;
   text-decoration: none;
 }
 
-.publication-venue a:hover {
+.cv-venue a:hover {
   text-decoration: underline;
 }
 
-.publication-summary {
+.cv-summary {
   margin-top: 0.4rem;
   margin-bottom: 0.5rem;
   font-size: 0.92rem;
@@ -69,7 +69,7 @@ author_profile: true
   color: inherit;
 }
   
-.publication-links a {
+.cv-links a {
   display: inline-block;
   margin-right: 0.5rem;
   margin-top: 0.25rem;
@@ -80,16 +80,16 @@ author_profile: true
   text-decoration: none;
 }
 
-.publication-links a:hover {
+.cv-links a:hover {
   background-color: #f2f2f2;
 }
 
 @media screen and (max-width: 600px) {
-  .publication-card {
+  .cv-card {
     flex-direction: column;
   }
 
-  .publication-card img {
+  .cv-card img {
     width: 100%;
     height: auto;
   }
