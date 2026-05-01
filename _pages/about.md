@@ -1,6 +1,5 @@
 ---
 layout: archive
-title: "Home"
 permalink: /
 author_profile: true
 ---
@@ -43,6 +42,7 @@ section {
   object-fit: cover;
   border-radius: 8px;
   border: none;
+  padding: 5px;
 }
 
 .cv-content,
