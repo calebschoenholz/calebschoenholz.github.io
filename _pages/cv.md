@@ -101,8 +101,8 @@ author_profile: true
 <div class="cv-card">
   <img src="/images/Washington_Huskies_logo.png" alt="UW thumbnail">
 
-  <div class="publication-content">
-    <div class="publication-title">
+  <div class="cv-content">
+    <div class="cv-title">
       Doctor of Philosophy (Ph.D.)
     </div>
   </div>
