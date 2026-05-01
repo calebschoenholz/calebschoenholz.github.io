@@ -124,7 +124,7 @@ author_profile: true
 </div>
 
 <div class="publication-card">
-  <img src="/images/publications/tool-part-interaction.jpg" alt="Tool-part interaction paper thumbnail">
+  <img src="/images/Picture3.png" alt="Tool-part interaction paper thumbnail">
 
   <div class="publication-content">
     <div class="publication-title">
