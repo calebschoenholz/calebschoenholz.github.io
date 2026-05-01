@@ -34,7 +34,13 @@ author_profile: true
   margin-bottom: 0.35rem;
   color: inherit;
 }
-
+  
+.cv-degree-list {
+  margin-top: 0.35rem;
+  margin-bottom: 0;
+  padding-left: 1.25rem;
+}
+  
 .cv-level2 {
   margin-bottom: 0.25rem;
 }
@@ -108,9 +114,10 @@ author_profile: true
       <strong>University of Washington</strong>, <em>Seattle, WA</em>
     </div>
 
-    <div class="cv-level2">
-      <strong>Doctor of Philosophy (Ph.D.)</strong>, Materials Science & Engineering
-    </div>
-    
+    <ul class="cv-degree-list">
+      <li>
+        <strong>Doctor of Philosophy (Ph.D.)</strong>, Materials Science & Engineering
+      </li>
+    </ul>
   </div>
 </div>
