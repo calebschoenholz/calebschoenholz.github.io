@@ -15,8 +15,8 @@ author_profile: true
 }
 
 .publication-card img {
-  width: 180px;
-  height: 180px;
+  width: 120px;
+  height: 120px;
   object-fit: cover;
   border-radius: 8px;
   border: none;
@@ -135,10 +135,6 @@ author_profile: true
     <div class="publication-venue">
       <a href="https://doi.org/10.1016/j.compositesa.2023.107973" target="_blank" rel="noopener noreferrer">Composites Part A: Applied Science and Manufacturing, 178, 107973, <strong>2024</strong></a>
     </div>
-
-    <div class="publication-summary">
-      A custom Dynamic Mechanical Analysis (DMA)-based shear test is used to explore impacts of different process parameters on tool-part interfacial stresses for aerospace composites.
-    </div>
   </div>
 </div>
 
@@ -151,20 +147,12 @@ author_profile: true
     </div>
 
     <div class="publication-authors">
-      <strong>
-        <a href="https://scholar.google.com/citations?user=y02nobQAAAAJ&hl=en&oi=ao" target="_blank" rel="noopener noreferrer">
-          Schoenholz C
-        </a>
-      </strong>,
-      <a href="https://scholar.google.com/citations?user=dono9moAAAAJ&hl=en&oi=ao" target="_blank" rel="noopener noreferrer">
-        Zobeiry N
-      </a>
+      <strong><a href="https://scholar.google.com/citations?user=y02nobQAAAAJ&hl=en&oi=ao" target="_blank" rel="noopener noreferrer">Schoenholz C</a></strong>,
+      <a href="https://scholar.google.com/citations?user=dono9moAAAAJ&hl=en&oi=ao" target="_blank" rel="noopener noreferrer">Zobeiry N</a>
     </div>
 
     <div class="publication-venue">
-      <a href="https://doi.org/10.1016/j.compositesa.2023.107842" target="_blank" rel="noopener noreferrer">
-      Composites Part A: Applied Science and Manufacturing, 176, 107842, <strong>2024</strong>
-      </a>
+      <a href="https://doi.org/10.1016/j.compositesa.2023.107842" target="_blank" rel="noopener noreferrer">Composites Part A: Applied Science and Manufacturing, 176, 107842, <strong>2024</strong></a>
     </div>
   </div>
 </div>
@@ -178,15 +166,9 @@ author_profile: true
     </div>
 
     <div class="publication-authors">
-      <strong>
-        <a href="https://scholar.google.com/citations?user=y02nobQAAAAJ&hl=en&oi=ao" target="_blank" rel="noopener noreferrer">
-          Schoenholz C
-        </a>
-      </strong>,
+      <strong><a href="https://scholar.google.com/citations?user=y02nobQAAAAJ&hl=en&oi=ao" target="_blank" rel="noopener noreferrer">Schoenholz C</a></strong>,
       Li S, Bainbridge K, Huynh V, Gray A, 
-      <a href="https://scholar.google.com/citations?user=dono9moAAAAJ&hl=en&oi=ao" target="_blank" rel="noopener noreferrer">
-        Zobeiry N
-      </a>
+      <a href="https://scholar.google.com/citations?user=dono9moAAAAJ&hl=en&oi=ao" target="_blank" rel="noopener noreferrer">Zobeiry N</a>
     </div>
 
     <div class="publication-venue">
@@ -204,18 +186,10 @@ author_profile: true
     </div>
 
     <div class="publication-authors">
-      <strong>
-        <a href="https://scholar.google.com/citations?user=y02nobQAAAAJ&hl=en&oi=ao" target="_blank" rel="noopener noreferrer">
-          Schoenholz C
-        </a>
-      </strong>, 
+      <strong><a href="https://scholar.google.com/citations?user=y02nobQAAAAJ&hl=en&oi=ao" target="_blank" rel="noopener noreferrer">Schoenholz C</a></strong>, 
       Li S, Bainbridge K, Huynh V, Gray A, 
-      <a href="https://scholar.google.com/citations?user=FjSFwK4AAAAJ&hl=en" target="_blank" rel="noopener noreferrer">
-        Chen X
-      </a>,
-      <a href="https://scholar.google.com/citations?user=dono9moAAAAJ&hl=en&oi=ao" target="_blank" rel="noopener noreferrer">
-        Zobeiry N
-      </a>
+      <a href="https://scholar.google.com/citations?user=FjSFwK4AAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Chen X</a>,
+      <a href="https://scholar.google.com/citations?user=dono9moAAAAJ&hl=en&oi=ao" target="_blank" rel="noopener noreferrer">Zobeiry N</a>
     </div>
 
     <div class="publication-venue">
@@ -233,7 +207,9 @@ author_profile: true
     </div>
 
     <div class="publication-authors">
-      Bainbridge K, <strong>Schoenholz C</strong>, Zobeiry N
+      Bainbridge K, 
+      <strong><a href="https://scholar.google.com/citations?user=y02nobQAAAAJ&hl=en&oi=ao" target="_blank" rel="noopener noreferrer">Schoenholz C</a></strong>,
+      <a href="https://scholar.google.com/citations?user=dono9moAAAAJ&hl=en&oi=ao" target="_blank" rel="noopener noreferrer">Zobeiry N</a>
     </div>
 
     <div class="publication-venue">
