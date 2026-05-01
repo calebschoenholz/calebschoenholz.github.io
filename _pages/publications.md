@@ -99,7 +99,7 @@ author_profile: true
 ## Journal Articles
 
 <div class="publication-card">
-  <img src="/images/publications/multifidelity-composites.jpg" alt="Multi-fidelity composites manufacturing paper thumbnail">
+  <img src="/images/Picture2.png" alt="Multi-fidelity composites manufacturing paper thumbnail">
 
   <div class="publication-content">
     <div class="publication-title">
