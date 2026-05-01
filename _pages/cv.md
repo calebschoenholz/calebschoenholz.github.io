@@ -125,3 +125,19 @@ author_profile: true
     </ul>
   </div>
 </div>
+
+<div class="cv-card">
+  <img src="/images/Winona_State_logo.png" alt="Winona State University thumbnail">
+
+  <div class="cv-content">
+    <div class="cv-level1">
+      <strong>Winona State University</strong>, <em>Winona, MN</em>
+    </div>
+
+    <ul class="cv-degree-list">
+      <li class="cv-level2">
+        <strong>Bachelor of Science (B.S.)</strong>, Composite Materials Engineering, Minor in Mathematics
+      </li>
+    </ul>
+  </div>
+</div>
