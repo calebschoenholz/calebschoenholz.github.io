@@ -1,13 +1,100 @@
 ---
 layout: archive
-title: # "CV"
-permalink: /cv/
+title: "CV"
+permalink: /publications/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
-{% include base_path %}
+<style>
+.publication-card {
+  display: flex;
+  gap: 1.25rem;
+  margin-bottom: 2rem;
+  padding-bottom: 1.5rem;
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.publication-card img {
+  width: 120px;
+  height: 120px;
+  object-fit: cover;
+  border-radius: 8px;
+  border: none;
+}
+
+.publication-content {
+  flex: 1;
+}
+
+.publication-title {
+  font-size: 1.05rem;
+  font-weight: 700;
+  margin-bottom: 0.35rem;
+  color: inherit;
+}
+
+.publication-authors {
+  margin-bottom: 0.25rem;
+}
+
+/* Subtle author links */
+.publication-authors a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.publication-authors a:hover {
+  text-decoration: underline;
+}
+
+.publication-venue {
+  font-style: italic;
+  margin-bottom: 0.5rem;
+}
+
+.publication-venue a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.publication-venue a:hover {
+  text-decoration: underline;
+}
+
+.publication-summary {
+  margin-top: 0.4rem;
+  margin-bottom: 0.5rem;
+  font-size: 0.92rem;
+  line-height: 1.45;
+  color: inherit;
+}
+  
+.publication-links a {
+  display: inline-block;
+  margin-right: 0.5rem;
+  margin-top: 0.25rem;
+  padding: 0.25rem 0.6rem;
+  border: 1px solid #555;
+  border-radius: 4px;
+  font-size: 0.8rem;
+  text-decoration: none;
+}
+
+.publication-links a:hover {
+  background-color: #f2f2f2;
+}
+
+@media screen and (max-width: 600px) {
+  .publication-card {
+    flex-direction: column;
+  }
+
+  .publication-card img {
+    width: 100%;
+    height: auto;
+  }
+}
+</style>
 
 **Education**
 
