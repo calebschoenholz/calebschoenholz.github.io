@@ -19,7 +19,7 @@ author_profile: true
   height: 180px;
   object-fit: cover;
   border-radius: 8px;
-  border: 1px solid #ddd;
+  border: none;
 }
 
 .publication-content {
