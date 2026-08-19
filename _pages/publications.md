@@ -98,6 +98,127 @@ author_profile: true
 
 ## Journal Articles
 
+---
+layout: archive
+title: "Publications"
+permalink: /publications/
+author_profile: true
+---
+
+<style>
+.publication-card {
+  display: flex;
+  gap: 1.25rem;
+  margin-bottom: 2rem;
+  padding-bottom: 1.5rem;
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.publication-card img {
+  width: 120px;
+  height: 120px;
+  object-fit: cover;
+  border-radius: 8px;
+  border: none;
+}
+
+.publication-content {
+  flex: 1;
+}
+
+.publication-title {
+  font-size: 1.05rem;
+  font-weight: 700;
+  margin-bottom: 0.35rem;
+  color: inherit;
+}
+
+.publication-authors {
+  margin-bottom: 0.25rem;
+}
+
+/* Subtle author links */
+.publication-authors a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.publication-authors a:hover {
+  text-decoration: underline;
+}
+
+.publication-venue {
+  font-style: italic;
+  margin-bottom: 0.5rem;
+}
+
+.publication-venue a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.publication-venue a:hover {
+  text-decoration: underline;
+}
+
+.publication-summary {
+  margin-top: 0.4rem;
+  margin-bottom: 0.5rem;
+  font-size: 0.92rem;
+  line-height: 1.45;
+  color: inherit;
+}
+
+.publication-links a {
+  display: inline-block;
+  margin-right: 0.5rem;
+  margin-top: 0.25rem;
+  padding: 0.25rem 0.6rem;
+  border: 1px solid #555;
+  border-radius: 4px;
+  font-size: 0.8rem;
+  text-decoration: none;
+}
+
+.publication-links a:hover {
+  background-color: #f2f2f2;
+}
+
+@media screen and (max-width: 600px) {
+  .publication-card {
+    flex-direction: column;
+  }
+
+  .publication-card img {
+    width: 100%;
+    height: auto;
+  }
+}
+</style>
+
+## Journal Articles
+
+<div class="publication-card">
+  <img src="/images/Picture4.png" alt="Uncertainty-aware accelerated composite characterization paper thumbnail">
+
+  <div class="publication-content">
+    <div class="publication-title">
+      Uncertainty-aware accelerated characterization of process-dependent composite properties using probabilistic machine learning
+    </div>
+
+    <div class="publication-authors">
+      <strong><a href="https://scholar.google.com/citations?user=y02nobQAAAAJ&hl=en&oi=ao" target="_blank" rel="noopener noreferrer">Schoenholz C</a></strong>,
+      Cheng R,
+      Fu H,
+      <a href="https://scholar.google.com/citations?user=dono9moAAAAJ&hl=en&oi=ao" target="_blank" rel="noopener noreferrer">Zobeiry N</a>
+    </div>
+
+    <div class="publication-venue">
+      <a href="https://doi.org/10.1016/j.compositesa.2026.110039" target="_blank" rel="noopener noreferrer">Composites Part A: Applied Science and Manufacturing, 210, 110039, <strong>2026</strong></a>
+    </div>
+  </div>
+</div>
+
 <div class="publication-card">
   <img src="/images/Picture2.png" alt="Multi-fidelity composites manufacturing paper thumbnail">
 
@@ -167,7 +288,7 @@ author_profile: true
 
     <div class="publication-authors">
       <strong><a href="https://scholar.google.com/citations?user=y02nobQAAAAJ&hl=en&oi=ao" target="_blank" rel="noopener noreferrer">Schoenholz C</a></strong>,
-      Li S, Bainbridge K, Huynh V, Gray A, 
+      Li S, Bainbridge K, Huynh V, Gray A,
       <a href="https://scholar.google.com/citations?user=dono9moAAAAJ&hl=en&oi=ao" target="_blank" rel="noopener noreferrer">Zobeiry N</a>
     </div>
 
@@ -186,8 +307,8 @@ author_profile: true
     </div>
 
     <div class="publication-authors">
-      <strong><a href="https://scholar.google.com/citations?user=y02nobQAAAAJ&hl=en&oi=ao" target="_blank" rel="noopener noreferrer">Schoenholz C</a></strong>, 
-      Li S, Bainbridge K, Huynh V, Gray A, 
+      <strong><a href="https://scholar.google.com/citations?user=y02nobQAAAAJ&hl=en&oi=ao" target="_blank" rel="noopener noreferrer">Schoenholz C</a></strong>,
+      Li S, Bainbridge K, Huynh V, Gray A,
       <a href="https://scholar.google.com/citations?user=FjSFwK4AAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Chen X</a>,
       <a href="https://scholar.google.com/citations?user=dono9moAAAAJ&hl=en&oi=ao" target="_blank" rel="noopener noreferrer">Zobeiry N</a>
     </div>
@@ -207,7 +328,7 @@ author_profile: true
     </div>
 
     <div class="publication-authors">
-      Bainbridge K, 
+      Bainbridge K,
       <strong><a href="https://scholar.google.com/citations?user=y02nobQAAAAJ&hl=en&oi=ao" target="_blank" rel="noopener noreferrer">Schoenholz C</a></strong>,
       <a href="https://scholar.google.com/citations?user=dono9moAAAAJ&hl=en&oi=ao" target="_blank" rel="noopener noreferrer">Zobeiry N</a>
     </div>
