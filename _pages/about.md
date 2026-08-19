@@ -139,6 +139,27 @@ section {
 <h3>Journal Articles</h3>
 
 <div class="publication-card">
+  <img src="/images/Picture4.png" alt="Uncertainty-aware accelerated composite characterization paper thumbnail">
+
+  <div class="publication-content">
+    <div class="publication-title">
+      Uncertainty-aware accelerated characterization of process-dependent composite properties using probabilistic machine learning
+    </div>
+
+    <div class="publication-authors">
+      <strong><a href="https://scholar.google.com/citations?user=y02nobQAAAAJ&hl=en&oi=ao" target="_blank" rel="noopener noreferrer">Schoenholz C</a></strong>,
+      Cheng R,
+      Fu H,
+      <a href="https://scholar.google.com/citations?user=dono9moAAAAJ&hl=en&oi=ao" target="_blank" rel="noopener noreferrer">Zobeiry N</a>
+    </div>
+
+    <div class="publication-venue">
+      <a href="https://doi.org/10.1016/j.compositesa.2026.110039" target="_blank" rel="noopener noreferrer">Composites Part A: Applied Science and Manufacturing, 210, 110039, <strong>2026</strong></a>
+    </div>
+  </div>
+</div>
+
+<div class="publication-card">
   <img src="/images/Picture2.png" alt="Multi-fidelity composites manufacturing paper thumbnail">
 
   <div class="publication-content">
