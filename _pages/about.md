@@ -149,7 +149,7 @@ section {
     <div class="publication-authors">
       <strong><a href="https://scholar.google.com/citations?user=y02nobQAAAAJ&hl=en&oi=ao" target="_blank" rel="noopener noreferrer">Schoenholz C</a></strong>,
       Cheng R,
-      Fu H,
+      <a href="https://scholar.google.com/citations?user=gWR8J6YAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Fu H</a>,
       <a href="https://scholar.google.com/citations?user=dono9moAAAAJ&hl=en&oi=ao" target="_blank" rel="noopener noreferrer">Zobeiry N</a>
     </div>
 
