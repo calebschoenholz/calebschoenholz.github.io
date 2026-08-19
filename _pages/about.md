@@ -24,6 +24,10 @@ section {
   border-bottom: none;
 }
 
+.cv-card {
+  align-items: center;
+}
+
 /* Education images */
 .cv-card img {
   width: 120px;
