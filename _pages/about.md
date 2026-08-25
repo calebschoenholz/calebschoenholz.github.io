@@ -292,41 +292,31 @@ section {
 
 <section id="education">
 
-<h2>Education</h2>
+<section id="dissertation">
 
-<div class="cv-card">
-  <img src="/images/Washington_Huskies_logo.png" alt="UW thumbnail">
+<h3>Dissertation</h3>
 
-  <div class="cv-content">
-    <div class="cv-level1">
-      <strong>University of Washington</strong>, <em>Seattle, WA</em>
+<div class="publication-card">
+  <img class="publication-image-contain"
+       src="/images/Washington_Huskies_logo.png"
+       alt="University of Washington logo">
+
+  <div class="publication-content">
+    <div class="publication-title">
+      Investigating the Impacts of Processing Uncertainty and Variability on Residual Stresses and Deformations in Aerospace Composites Manufacturing
     </div>
 
-    <ul class="cv-degree-list">
-      <li>
-        <strong>Doctor of Philosophy (Ph.D.)</strong>, Materials Science & Engineering
-      </li>
-
-      <li>
-        <strong>Master of Science (M.S.)</strong>, Materials Science & Engineering
-      </li>
-    </ul>
-  </div>
-</div>
-
-<div class="cv-card">
-  <img src="/images/Winona_State_logo.png" alt="Winona State University thumbnail">
-
-  <div class="cv-content">
-    <div class="cv-level1">
-      <strong>Winona State University</strong>, <em>Winona, MN</em>
+    <div class="publication-authors">
+      <strong>Schoenholz C</strong>
     </div>
 
-    <ul class="cv-degree-list">
-      <li>
-        <strong>Bachelor of Science (B.S.)</strong>, Composite Materials Engineering, Minor in Mathematics
-      </li>
-    </ul>
+    <div class="publication-venue">
+      <a href="https://digital.lib.washington.edu/researchworks/items/74b5a5a1-3cb2-4fe3-a0be-7598a45a8521"
+         target="_blank"
+         rel="noopener noreferrer">
+        Ph.D. Dissertation, University of Washington, <strong>2024</strong>
+      </a>
+    </div>
   </div>
 </div>
 
