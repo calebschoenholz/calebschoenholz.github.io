@@ -290,8 +290,6 @@ section {
 
 </section>
 
-<section id="education">
-
 <section id="dissertation">
 
 <h3>Dissertation</h3>
