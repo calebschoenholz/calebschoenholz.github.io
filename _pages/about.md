@@ -288,10 +288,6 @@ section {
   </div>
 </div>
 
-</section>
-
-<section id="dissertation">
-
 <h3>Dissertation</h3>
 
 <div class="publication-card">
