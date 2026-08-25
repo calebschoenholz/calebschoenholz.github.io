@@ -148,7 +148,7 @@ section {
 <h3>Journal Articles</h3>
 
 <div class="publication-card">
-  <img class="publication-image-contain" img src="/images/Picture4.png" alt="Uncertainty-aware accelerated composite characterization paper thumbnail">
+  <img class="publication-image-contain" src="/images/Picture4.png" alt="Uncertainty-aware accelerated composite characterization paper thumbnail">
 
   <div class="publication-content">
     <div class="publication-title">
