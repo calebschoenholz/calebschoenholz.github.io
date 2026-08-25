@@ -269,7 +269,7 @@ section {
 </div>
 
 <div class="publication-card">
-  <img src="/images/publications/release-coating-aging.jpg" alt="Release coating aging paper thumbnail">
+  <img class="publication-image-contain" src="/images/Picture8.png" alt="Tool-part interaction paper thumbnail">
 
   <div class="publication-content">
     <div class="publication-title">
