@@ -228,7 +228,7 @@ section {
 </div>
 
 <div class="publication-card">
-  <img src="/images/publications/release-coating-ml.jpg" alt="Release coating machine learning paper thumbnail">
+  <img class="publication-image-contain" src="/images/Picture6.png" alt="Tool-part interaction paper thumbnail">
 
   <div class="publication-content">
     <div class="publication-title">
