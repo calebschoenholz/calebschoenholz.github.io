@@ -169,7 +169,7 @@ section {
 </div>
 
 <div class="publication-card">
-  <img class="publication-image-contain" <img src="/images/Picture2.png" alt="Multi-fidelity composites manufacturing paper thumbnail">
+  <img class="publication-image-contain" src="/images/Picture2.png" alt="Tool-part interaction paper thumbnail">
 
   <div class="publication-content">
     <div class="publication-title">
