@@ -209,7 +209,7 @@ section {
 </div>
 
 <div class="publication-card">
-  <img src="/images/publications/process-optimization.jpg" alt="Process optimization paper thumbnail">
+  <img class="publication-image-contain" src="/images/Picture5.png" alt="Tool-part interaction paper thumbnail">
 
   <div class="publication-content">
     <div class="publication-title">
